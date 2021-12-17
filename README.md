@@ -1,6 +1,6 @@
 ## Hi there 👋 - I'm Anshuman
 
-I'm a third-year PhD student at UVA, working at the Security Research Group under [Professor David Evans](http://www.cs.virginia.edu/~evans/).
+I'm a PhD candidate at [UVA](https://www.virginia.edu/)'s [Computer Science Deparment](https://engineering.virginia.edu/departments/computer-science) in my third year, working at the [Security Research Group](https://uvasrg.github.io/) under [Professor David Evans](http://www.cs.virginia.edu/~evans/).
 
 - 🔭 I’m currently working on privacy in Machine Learning, focusing on Property Inference
 - 🌱 I’m currently learning to play a musical instrument (stuck in the 'which one should I learn?' phase)
