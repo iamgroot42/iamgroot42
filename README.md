@@ -6,4 +6,3 @@ I'm a PhD candidate at [UVA](https://www.virginia.edu/)'s [Computer Science Depa
 - 🌱 I’m currently learning to play a musical instrument (stuck in the 'which one should I learn?' phase)
 - 💬 Ask me about anything Marvel/veganism
 - 📫 How to reach me: [Twitter](http://twitter.com/iamgroot42), or my [Website](http://anshumansuri.me)
-- 😄 Pronouns: he/him
